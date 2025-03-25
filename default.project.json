@@ -1,0 +1,12 @@
+{
+  "name": "BrainNet2",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "BrainNet2": {
+        "$path": "src/BrainNet2"
+      }
+    }
+  }
+}
