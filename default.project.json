@@ -6,6 +6,9 @@
     "ReplicatedStorage": {
       "BrainNet2": {
         "$path": "src/BrainNet2"
+      },
+      "wallys": {
+        "$path": "Packages"
       }
     }
   }
